@@ -5,9 +5,14 @@ Gerado pelo código
 ```sql
 	select schemaid, name from arschema
 ```
+	
+	
+Para gerar a lista de com o código e no nome de cada campo ultilizar o a seguinte consulta.
+```sql
+select fieldid, fieldname from field where schemaid='209'
+```
 
-
-| id | schema |
+| schemaid | name |
 | --- | --- |
 |1743|AAS:Activity                    |
 |1744|AAS:ActivityInterface           |
