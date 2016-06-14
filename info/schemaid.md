@@ -1,13 +1,13 @@
 #Lista de Schemas 
 
-Gerado pelo código 
+Gerado pelo cÃ³digo 
 
 ```sql
 	select schemaid, name from arschema
 ```
 	
 	
-Para gerar a lista de com o código e no nome de cada campo ultilizar o a seguinte consulta.
+Para gerar a lista de com o cÃ³digo e no nome de cada campo ultilizar o a seguinte consulta.
 ```sql
 select fieldid, fieldname from field where schemaid='209'
 ```
@@ -3328,7 +3328,7 @@ select fieldid, fieldname from field where schemaid='209'
 |1466|TMS:RootRelationships           |
 |1467|TMS:SampleApprovalForm          |
 |1468|TMS:SummaryData                 |
-|1377|TMS:Task                        |
+|[1377](https://raw.githubusercontent.com/ronaldoaf/api_remedy/master/info/forms_and_fields/1377.md)|[TMS:Task](https://raw.githubusercontent.com/ronaldoaf/api_remedy/master/info/forms_and_fields/1377.md)|
 |3436|TMS:Task__o                     |
 |1513|TMS:TaskAssociationFlowJoin     |
 |1499|TMS:TaskAssociationJoin         |
