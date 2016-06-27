@@ -3,33 +3,15 @@
     Este módulo contem as configurações necessárias para o funcionamento do programa
 '''
 
-#usuario do remedy
-#REMEDY_USERNAME =  u"integracao_controlm_baixa"
-
-#senha do usuário do remedy 
-#REMEDY_PASSWORD = u"integracao_controlm_baixa"
-
-#nome do usuário no menu do ITSM
-#REMEDY_NAME = u"Usuario Automatico Control-M Baixa"
-
-
-
-
 
 #usuario do remedy
-REMEDY_USERNAME =  u"142323"
+REMEDY_USERNAME =  u"usuario"
 
 #senha do usuário do remedy 
-REMEDY_PASSWORD = u"142323"
+REMEDY_PASSWORD = u"senha"
 
-#nome do usuário no menu do ITSM
-REMEDY_NAME = u"RONALDO ARAUJO DE FARIAS"
+# nome ou ip do servidor
+REMEDY_SERVER = u"x.x.x.x"   
 
-
-
-
-REMEDY_SERVER = u"10.200.116.28" #servidor produção
-#REMEDY_SERVER = u"10.200.242.186" #servidor homologação
-#REMEDY_SERVER = u"10.200.240.243" #servidor homologação
-
-REMEDY_TCP_PORT = 9000 #porta tcp do servidor remedy 
+#porta tcp do servidor remedy 
+REMEDY_TCP_PORT = 9000 
