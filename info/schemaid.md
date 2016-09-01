@@ -1249,7 +1249,7 @@ select fieldid, fieldname from field where schemaid='209'
 |2172|CHG:SYS Notification Rules      |
 |2170|CHG:SYS-Appservice              |
 |2171|CHG:SYS-StatusRelationships     |
-|2173|CHG:Template                    |
+|[2173]((forms_and_fields/2173.md))|[CHG:Template]((forms_and_fields/2173.md))                    |
 |2215|CHG:Template Assoc CI Lookup    |
 |2176|CHG:Template Associations       |
 |3373|CHG:Template__o                 |
