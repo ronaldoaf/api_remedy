@@ -1259,7 +1259,7 @@ select fieldid, fieldname from field where schemaid='209'
 |2189|CHG:TemplateSPGAssocLookup      |
 |2184|CHG:TemplateSPGLookUp           |
 |3374|CHG:TemplateSPGLookUp__o        |
-|1372|CHG:WorkLog                     |
+|[1372](forms_and_fields/1372.md)|[CHG:WorkLog](forms_and_fields/1372.md)                     |
 |2177|CHG:xCCMStatisticsSave          |
 |157|CHP:ConfirmDialog               |
 |747|CMDB SYS:Menu Items             |
